@@ -1,5 +1,5 @@
 {
-  "name":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
+  "name":"Wicked Manny",
   "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables accordingly. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗",
+      "value":"Wicked Manny",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0ZObjhLMkJKZ3lZT0FUOU1qNGh3YmEzQ3NFOHh3TW16MkIvcjF3U0tFND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicFVGNXQ4a3lpbCtkbkQ4VUVuWVpnVGJ3VTJjTzYzc2ErbFF3NDNYaUlHST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyT1MyQnpONlZuNjJhbkU0ZUFRbG5aSEdhbGFsNzg0VFhFU3JlODk5eFZjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQUG5mYjc4MWF0WEtOd21kb1NxREduSXJtTlhsUzBwV3Q4V09CaTVLUzBrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImlOaEptcTB6UG82K3h4WllxUUtZbFM1blpSZXQ1ZUIrYUozS3RMRUZPRlk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InpRckhBUnkwSmY0ZVFKZnc1UENhUE1aQzdUaHFlY1JHMUpUY1QzY0hhQkk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0pFV25Yd2pFM1JTRmppbS9uNUtHN2JpdVV3MHQ2NXozMmFPUW0xTDFYND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlVjYURManBGaGdZRnc2YXMvVlBROUtIelI1OFNGNlQyL3lvSzRJOENERT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InBrRlRoaTlhY0FPdlVsQTBXblg2NDhIN3J6TG1WbWZMeUVjaW5DNHJOMENRNytQQkowNXhnQ2VqV0RqRVNkZStQamtsZmo5TmFNV3R6MCtzamFsVUNnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjYsImFkdlNlY3JldEtleSI6IkRkaWtBMDE2Umw0OG15T0RzcURkV2FhQjhYVGJCcVFTYTlFRVBIS1hyZTg9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0ODEyNjU5OTAyNkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI0RTA0NDRCNENGRENCRkNDNTNFODg5NjJGRDZERkY1OCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIwMDQ4NTU1fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJQTjFkd0J0RFNaT2hCSmNNTXA2YlhnIiwicGhvbmVJZCI6ImNkZjU4NGNiLTNkMGUtNGVjNi1hYWZjLWJjY2UyMzNkZTM1ZiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXVTUzNEhobWEyK21KaEVqc3Z2Tm9XN3BEeTg9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidWR6NUMwWWdNUmowOVRHNWVKVzVRVjRGRWZrPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlI3NEwzQUNSIiwibWUiOnsiaWQiOiIyMzQ4MTI2NTk5MDI2OjRAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiV0lDS0VETUFOTlkifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0xudnFja0ZFSnUzbDdRR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImRHSmJ4dkxwUVVLZk1oL2hwRWh0Wk9HU250VDRWY2FOMFlHY1p6MHp1blE9IiwiYWNjb3VudFNpZ25hdHVyZSI6Imwva0tucjgwUFlwZ25JekhRVTZodjExbU5aVEJzOGs2S0RncnVXNGMrbk5pMUQxZ2NDUVBmdG1LbzB5NDFVQk9TUDVKWkJxN1B6cFVpWjRTWnMreEJRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJpTHd5OW03bXVOa29zWWpkdGlJeUMzUnRDSHEwNUlGdFdGQXpKeDg4d0dwQ09xRG1FdGdyamVtWGhIQ01CQjNEWmtoZ0FqQldyRXh1czVnYmNWVkFDZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDgxMjY1OTkwMjY6NEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJYUmlXOGJ5NlVGQ256SWY0YVJJYldUaGtwN1UrRlhHamRHQm5HYzlNN3AwIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIwMDQ4NTUyLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQURZeSJ9",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltah Tech 254🇰🇪"
+    "value": "Wicked Manny"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254114141192"
+    "value": "2348126599026"
   },
     "WARN_COUNT":
   {
@@ -104,7 +104,7 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
